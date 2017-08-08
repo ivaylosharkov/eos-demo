@@ -8,4 +8,4 @@ Third patch
 
 HotFix - Patch
 
-Adding some details to be discarded
+it was not enough
