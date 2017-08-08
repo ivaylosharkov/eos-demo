@@ -6,10 +6,4 @@ One more patch
 
 Third patch
 
-HotFix - Patch
-
-it was not enough
-
-Adding some details here!
-
-Prep for branch E
+Removed some text in the develop branch
