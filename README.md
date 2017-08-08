@@ -10,4 +10,4 @@ HotFix - Patch
 
 it was not enough
 
-Adding some details here
+Adding some details here!
