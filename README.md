@@ -8,4 +8,4 @@ Third patch
 
 HotFix - Patch
 
-it was not enoough
+it was not enough
