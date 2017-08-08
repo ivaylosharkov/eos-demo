@@ -13,3 +13,6 @@ it was not enough
 Adding some details here!
 
 Prep for branch E
+
+
+Some text about develop branching flow
