@@ -6,13 +6,6 @@ One more patch
 
 Third patch
 
-HotFix - Patch
+Removed some text in the develop branch
 
-it was not enough
-
-Adding some details here!
-
-Prep for branch E
-
-
-Some text about develop branching flow
+Adding more details about the dev branch
